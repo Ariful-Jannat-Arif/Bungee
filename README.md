@@ -26,7 +26,7 @@ Add the dependency to your module build.gradle:
 
 ```java
 dependencies {
-	        compile 'com.github.mjarif97:Bungee:master-SNAPSHOT'
+	        compile 'com.github.Ariful_Jannat-Arif:Animations:master-SNAPSHOT'
 	}
 ```
 
